@@ -1,5 +1,5 @@
 ##Skrate_assignment
 
-newtlify link : 
+Netlify link : 
 <a href="skratewebapp.netlify.app
-" > Netlify Link<a/>
+" > Skrate WEB APP BY BHARAT<a/>
