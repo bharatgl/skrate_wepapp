@@ -1,0 +1,47 @@
+.logout {
+  position: absolute;
+  width: 138px;
+  height: 62px;
+  left: 1369px;
+  top: 30px;
+
+  background: #4f65f6;
+  border-radius: 5px;
+  border: none;
+  color: white;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.list {
+  position: absolute;
+  height: 19px;
+  left: 1634px;
+  right: 118px;
+  top: 52px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  /* or 100% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.01em;
+
+  /* ◇ Light / Dark */
+
+  color: #263238;
+}

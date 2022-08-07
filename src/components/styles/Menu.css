@@ -1,0 +1,16 @@
+.homeicon,
+.dashboardicon {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+  padding: 7.5px 0px;
+}
+
+.container {
+  flex: 1;
+  height: 100%;
+  font-weight: 14px;
+  position: sticky;
+  top: 0;
+}

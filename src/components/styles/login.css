@@ -14,7 +14,7 @@
   top: 579px;
 
   font-style: normal;
-  font-weight: 800;
+  font-weight: 500;
   font-size: 24px;
   line-height: 36px;
   /* identical to box height */
@@ -29,6 +29,7 @@
   overflow-x: auto;
   overflow-y: hidden;
 }
+
 .skrate_line {
   position: absolute;
   width: 203px;
@@ -37,7 +38,7 @@
   top: 496px;
 
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 25px;
   line-height: 33px;
   display: flex;
@@ -58,3 +59,4 @@
   bottom: 0;
   right: 0;
 }
+
