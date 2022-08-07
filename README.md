@@ -1,5 +1,5 @@
 ##Skrate_assignment
 
 newtlify link : 
-skratewebapp.netlify.app
-
+<a href="skratewebapp.netlify.app
+" > Netlify Link<a/>
